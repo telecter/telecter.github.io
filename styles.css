@@ -1,0 +1,8 @@
+#mainname {
+    background: linear-gradient(90deg, #2d194f 0%, #91cfff 50%, #401fb4 100%);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: none;
+}
